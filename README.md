@@ -3,7 +3,7 @@
 🎮 Nexus Gaming Store
 Nexus Games is a C#-based demo gaming store application that simulates a full-featured digital game marketplace. Designed as a real world alike project, it showcases features like user profiles, game browsing, and a mock payment process—creating a comprehensive concept of what a real-world gaming platform could look like.
 
-🌟 Project Highlights
+##🌟 Project Highlights
   
   🛍️ All-in-One Game Store: Browse, search, and view game details across various genres.
 
@@ -19,7 +19,7 @@ Nexus Games is a C#-based demo gaming store application that simulates a full-fe
 
   🧾 Admin Dashboard: Admin can view users, approve deletions, and manage reports.
 
-🧩 Key Features
+##🧩 Key Features
 
   ✅ Sign-Up & Login with basic validation
 
