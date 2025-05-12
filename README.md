@@ -35,7 +35,7 @@ Nexus Games is a C#-based demo gaming store application that simulates a full-fe
 
 🧑‍💻 Team Nexus Games
 
-👤 Atunu Saha (https://github.com/AtunuSaha)
+👤 - [Atunu Saha](https://github.com/AtunuSaha) 
 
-👤 Shah Rahat Hossain (https://github.com/HossainShahRahat)
+👤 - [Shah Rahat Hossain](https://github.com/HossainShahRahat) 
 
