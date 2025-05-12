@@ -1,0 +1,77 @@
+D:\C_Sharp_Practice\Nexus Games\Nexus Games\bin\Debug\Nexus Games.exe.config
+D:\C_Sharp_Practice\Nexus Games\Nexus Games\bin\Debug\Nexus Games.exe
+D:\C_Sharp_Practice\Nexus Games\Nexus Games\bin\Debug\Nexus Games.pdb
+D:\C_Sharp_Practice\Nexus Games\Nexus Games\obj\Debug\Nexus Games.csproj.AssemblyReference.cache
+D:\C_Sharp_Practice\Nexus Games\Nexus Games\obj\Debug\Nexus Games.csproj.SuggestedBindingRedirects.cache
+D:\C_Sharp_Practice\Nexus Games\Nexus Games\obj\Debug\Nexus_Games.Start.resources
+D:\C_Sharp_Practice\Nexus Games\Nexus Games\obj\Debug\Nexus_Games.Properties.Resources.resources
+D:\C_Sharp_Practice\Nexus Games\Nexus Games\obj\Debug\Nexus Games.csproj.GenerateResource.cache
+D:\C_Sharp_Practice\Nexus Games\Nexus Games\obj\Debug\Nexus Games.csproj.CoreCompileInputs.cache
+D:\C_Sharp_Practice\Nexus Games\Nexus Games\obj\Debug\Nexus Games.exe
+D:\C_Sharp_Practice\Nexus Games\Nexus Games\obj\Debug\Nexus Games.pdb
+D:\C_Sharp_Practice\Nexus Games\Nexus Games\obj\Debug\Nexus_Games.Login.resources
+D:\C_Sharp_Practice\Nexus Games\Nexus Games\obj\Debug\Nexus_Games.Signup.resources
+D:\C_Sharp_Practice\Nexus Games\Nexus Games\obj\Debug\Nexus_Games.Store_Homepage.resources
+D:\C_Sharp_Practice\Nexus Games\Nexus Games\obj\Debug\Nexus_Games.BKASH.resources
+D:\C_Sharp_Practice\Nexus Games\Nexus Games\obj\Debug\Nexus_Games.PaymentType.resources
+D:\C_Sharp_Practice\Nexus Games\Nexus Games\obj\Debug\Nexus_Games.Library.resources
+D:\C_Sharp_Practice\Nexus Games\Nexus Games\obj\Debug\Nexus_Games.Profile.resources
+D:\C_Sharp_Practice\Nexus Games\Nexus Games\obj\Debug\Nexus_Games.NAGAD.resources
+D:\C_Sharp_Practice\Nexus Games\Nexus Games\obj\Debug\Nexus_Games.CreditCard.resources
+D:\C_Sharp_Practice\Nexus Games\Nexus Games\obj\Debug\Nexus_Games.Help.resources
+D:\C_Sharp_Practice\Nexus Games\Nexus Games\obj\Debug\Nexus_Games.Admin_DeleteRequestTable.resources
+D:\C_Sharp_Practice\Nexus Games\Nexus Games\obj\Debug\Nexus_Games.Admin_HomePage.resources
+D:\C_Sharp_Practice\Nexus Games\Nexus Games\obj\Debug\Nexus_Games.DeleteAccount.resources
+D:\C_Sharp_Practice\Nexus Games\Nexus Games\obj\Debug\Nexus_Games.NewPassword.resources
+D:\C_Sharp_Practice\Nexus Games\Nexus Games\obj\Debug\Nexus_Games.Verify.resources
+D:\C_Sharp_Practice\Nexus Games\Nexus Games\obj\Debug\Nexus_Games.DebitCard.resources
+D:\C_Sharp_Practice\Nexus Games\Nexus Games\obj\Debug\Nexus_Games.Admin_UserListTable.resources
+D:\C_Sharp_Practice\Nexus Games\Nexus Games\obj\Debug\Nexus_Games.About_us.resources
+D:\C_Sharp_Practice\Nexus Games\Nexus Games\bin\Debug\Interop.WMPLib.dll
+D:\C_Sharp_Practice\Nexus Games\Nexus Games\bin\Debug\AxInterop.WMPLib.dll
+D:\C_Sharp_Practice\Nexus Games\Nexus Games\obj\Debug\Interop.WMPLib.dll
+D:\C_Sharp_Practice\Nexus Games\Nexus Games\obj\Debug\AxInterop.WMPLib.dll
+D:\C_Sharp_Practice\Nexus Games\Nexus Games\obj\Debug\Nexus Games.csproj.ResolveComReference.cache
+D:\C_Sharp_Practice\Nexus Games\Nexus Games\bin\Debug\Tulpep.NotificationWindow.dll
+D:\C_Sharp_Practice\Nexus Games\Nexus Games\obj\Debug\Nexus Games.csproj.CopyComplete
+D:\C_Sharp_Practice\Nexus Games\Nexus Games\obj\Debug\Nexus_Games.R6.resources
+D:\C_Sharp_Practice\Nexus Games\Nexus Games\obj\Debug\Nexus_Games.RE.resources
+D:\C_Sharp_Practice\Nexus Games\Nexus Games\bin\Debug\DotNetProjects.Input.Toolkit.dll
+C:\Users\ASUS\Downloads\Nexus Games\Nexus Games\bin\Debug\Nexus Games.exe.config
+C:\Users\ASUS\Downloads\Nexus Games\Nexus Games\bin\Debug\Nexus Games.exe
+C:\Users\ASUS\Downloads\Nexus Games\Nexus Games\bin\Debug\Nexus Games.pdb
+C:\Users\ASUS\Downloads\Nexus Games\Nexus Games\bin\Debug\DotNetProjects.Input.Toolkit.dll
+C:\Users\ASUS\Downloads\Nexus Games\Nexus Games\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\ASUS\Downloads\Nexus Games\Nexus Games\bin\Debug\Interop.WMPLib.dll
+C:\Users\ASUS\Downloads\Nexus Games\Nexus Games\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ASUS\Downloads\Nexus Games\Nexus Games\obj\Debug\Nexus Games.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\Nexus Games\Nexus Games\obj\Debug\Interop.WMPLib.dll
+C:\Users\ASUS\Downloads\Nexus Games\Nexus Games\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ASUS\Downloads\Nexus Games\Nexus Games\obj\Debug\Nexus Games.csproj.ResolveComReference.cache
+C:\Users\ASUS\Downloads\Nexus Games\Nexus Games\obj\Debug\Nexus_Games.Admin_DeleteRequestTable.resources
+C:\Users\ASUS\Downloads\Nexus Games\Nexus Games\obj\Debug\Nexus_Games.Admin_HomePage.resources
+C:\Users\ASUS\Downloads\Nexus Games\Nexus Games\obj\Debug\Nexus_Games.Admin_UserListTable.resources
+C:\Users\ASUS\Downloads\Nexus Games\Nexus Games\obj\Debug\Nexus_Games.BKASH.resources
+C:\Users\ASUS\Downloads\Nexus Games\Nexus Games\obj\Debug\Nexus_Games.About_us.resources
+C:\Users\ASUS\Downloads\Nexus Games\Nexus Games\obj\Debug\Nexus_Games.CreditCard.resources
+C:\Users\ASUS\Downloads\Nexus Games\Nexus Games\obj\Debug\Nexus_Games.DebitCard.resources
+C:\Users\ASUS\Downloads\Nexus Games\Nexus Games\obj\Debug\Nexus_Games.DeleteAccount.resources
+C:\Users\ASUS\Downloads\Nexus Games\Nexus Games\obj\Debug\Nexus_Games.R6.resources
+C:\Users\ASUS\Downloads\Nexus Games\Nexus Games\obj\Debug\Nexus_Games.Help.resources
+C:\Users\ASUS\Downloads\Nexus Games\Nexus Games\obj\Debug\Nexus_Games.Library.resources
+C:\Users\ASUS\Downloads\Nexus Games\Nexus Games\obj\Debug\Nexus_Games.Login.resources
+C:\Users\ASUS\Downloads\Nexus Games\Nexus Games\obj\Debug\Nexus_Games.NAGAD.resources
+C:\Users\ASUS\Downloads\Nexus Games\Nexus Games\obj\Debug\Nexus_Games.NewPassword.resources
+C:\Users\ASUS\Downloads\Nexus Games\Nexus Games\obj\Debug\Nexus_Games.Profile.resources
+C:\Users\ASUS\Downloads\Nexus Games\Nexus Games\obj\Debug\Nexus_Games.RE.resources
+C:\Users\ASUS\Downloads\Nexus Games\Nexus Games\obj\Debug\Nexus_Games.Signup.resources
+C:\Users\ASUS\Downloads\Nexus Games\Nexus Games\obj\Debug\Nexus_Games.Start.resources
+C:\Users\ASUS\Downloads\Nexus Games\Nexus Games\obj\Debug\Nexus_Games.Properties.Resources.resources
+C:\Users\ASUS\Downloads\Nexus Games\Nexus Games\obj\Debug\Nexus_Games.Store_Homepage.resources
+C:\Users\ASUS\Downloads\Nexus Games\Nexus Games\obj\Debug\Nexus_Games.PaymentType.resources
+C:\Users\ASUS\Downloads\Nexus Games\Nexus Games\obj\Debug\Nexus_Games.Verify.resources
+C:\Users\ASUS\Downloads\Nexus Games\Nexus Games\obj\Debug\Nexus Games.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\Nexus Games\Nexus Games\obj\Debug\Nexus Games.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\Nexus Games\Nexus Games\obj\Debug\Nexus Games.csproj.CopyComplete
+C:\Users\ASUS\Downloads\Nexus Games\Nexus Games\obj\Debug\Nexus Games.exe
+C:\Users\ASUS\Downloads\Nexus Games\Nexus Games\obj\Debug\Nexus Games.pdb
